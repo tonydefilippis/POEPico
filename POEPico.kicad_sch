@@ -1,0 +1,293 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "af7cf811-aa53-4420-b6d8-7ca9a84760c5")
+	(paper "A4")
+	(lib_symbols)
+	(junction
+		(at 120.65 60.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fdc6dfa5-c3a1-4107-a468-b41e1201e671")
+	)
+	(bus
+		(pts
+			(xy 127 71.12) (xy 120.65 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4319b46c-eb39-4d0a-9235-8919e6aa8ac9")
+	)
+	(bus
+		(pts
+			(xy 120.65 71.12) (xy 120.65 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4a5ff86b-5de6-454a-af34-c43a509daa87")
+	)
+	(bus
+		(pts
+			(xy 114.3 55.88) (xy 127 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5bac5741-2714-4895-9c62-8a74769eab45")
+	)
+	(bus
+		(pts
+			(xy 120.65 60.96) (xy 114.3 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5e323165-3e75-474f-b872-76d4d48eff18")
+	)
+	(bus
+		(pts
+			(xy 127 58.42) (xy 114.3 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "92559201-c3d5-4e38-a7c2-81346166624e")
+	)
+	(bus
+		(pts
+			(xy 114.3 53.34) (xy 127 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bb221099-8330-41bf-a848-6486ede5cad2")
+	)
+	(bus
+		(pts
+			(xy 127 60.96) (xy 120.65 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dfb17be1-4f80-4d6d-8e25-d49b1fa4b47b")
+	)
+	(sheet
+		(at 88.9 50.8)
+		(size 25.4 12.7)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "186f5c2e-661a-44ee-b56d-a12415dd6d51")
+		(property "Sheetname" "MicroController"
+			(at 88.9 50.0884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "uC.kicad_sch"
+			(at 88.9 64.0846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "{SW}" bidirectional
+			(at 114.3 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "d32bba58-84b6-417d-9611-1acd4ba32f05")
+		)
+		(pin "{ETH}" bidirectional
+			(at 114.3 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "4d5468cb-42b0-485c-b7e7-fdcc9a2284b2")
+		)
+		(pin "GPIO[0..29]" bidirectional
+			(at 114.3 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "74bc6656-5866-4b6a-b240-f2102671849c")
+		)
+		(pin "{USB}" bidirectional
+			(at 114.3 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "bd3b0ab0-3740-49a3-ae4c-bb7dae9693d6")
+		)
+		(instances
+			(project "POEPico"
+				(path "/af7cf811-aa53-4420-b6d8-7ca9a84760c5"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 127 68.58)
+		(size 35.56 7.62)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c2d28ab2-df1b-4e65-90a2-a0abc4a5e5e2")
+		(property "Sheetname" "Power"
+			(at 127 67.8684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 127 76.7846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "{ETH}" bidirectional
+			(at 127 71.12 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "737404a3-5211-402f-b007-c61f52e9e4e4")
+		)
+		(instances
+			(project "POEPico"
+				(path "/af7cf811-aa53-4420-b6d8-7ca9a84760c5"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 127 50.8)
+		(size 35.56 12.7)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ebf5e1eb-8d32-4a5c-a13a-2f6bc546bfb8")
+		(property "Sheetname" "Connectors"
+			(at 127 50.0884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Connectors.,kicad_sch.kicad_sch"
+			(at 127 64.0846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "{ETH}" bidirectional
+			(at 127 60.96 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "a55a6c74-29dd-42d1-9495-26d754dae255")
+		)
+		(pin "{SW}" bidirectional
+			(at 127 53.34 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "cc0110a1-9e07-4d42-ad9b-4533fa058b09")
+		)
+		(pin "{USB}" bidirectional
+			(at 127 55.88 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "759e8839-cf81-46fb-b297-790cb65ff884")
+		)
+		(pin "GPIO[0..29]" bidirectional
+			(at 127 58.42 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "a7a9a5ec-e15e-4b36-853e-da43fe5aa30e")
+		)
+		(instances
+			(project "POEPico"
+				(path "/af7cf811-aa53-4420-b6d8-7ca9a84760c5"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
