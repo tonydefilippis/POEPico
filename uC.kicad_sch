@@ -37865,7 +37865,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "C0402C100J8GACTU"
+		(property "PART-NUMBER" "C1545"
 			(at 179.07 233.68 90)
 			(effects
 				(font
@@ -37890,7 +37890,7 @@
 				)
 			)
 		)
-		(property "Comment" "10p 10V 20%"
+		(property "Comment" "C1545 50V 10pF 5% 0402 Capacitor"
 			(at 179.07 233.68 0)
 			(effects
 				(font
@@ -37968,7 +37968,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "0201ZD104KAT2A"
+		(property "PART-NUMBER" "C1525"
 			(at 393.7 73.66 0)
 			(effects
 				(font
@@ -37985,7 +37985,7 @@
 				)
 			)
 		)
-		(property "Rating" "10V"
+		(property "Rating" "16V"
 			(at 353.568 68.326 0)
 			(effects
 				(font
@@ -37993,7 +37993,7 @@
 				)
 			)
 		)
-		(property "Comment" "0.1u 10V 20%"
+		(property "Comment" "C1525 16V 0.1uF 10% 0402 Capacitor"
 			(at 393.7 73.66 0)
 			(effects
 				(font
@@ -38135,7 +38135,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "VJ0402A150KXQCW1BC"
+		(property "PART-NUMBER" "C1548"
 			(at 271.78 229.87 90)
 			(effects
 				(font
@@ -38152,7 +38152,7 @@
 				)
 			)
 		)
-		(property "Rating" "10V"
+		(property "Rating" "50V"
 			(at 267.462 224.79 90)
 			(effects
 				(font
@@ -38160,7 +38160,7 @@
 				)
 			)
 		)
-		(property "Comment" "15p 10V 20%"
+		(property "Comment" "C1548 50V 15pF 5% 0402 Capacitor"
 			(at 271.78 229.87 0)
 			(effects
 				(font
@@ -38341,7 +38341,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 44.45 173.228 90)
 			(effects
 				(font
@@ -38376,7 +38376,7 @@
 				)
 			)
 		)
-		(property "PART-NUMBER" "CRCW04020000Z0EEHP"
+		(property "PART-NUMBER" "C17168"
 			(at 44.45 171.45 90)
 			(effects
 				(font
@@ -38394,7 +38394,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "0 1%"
+		(property "Comment" "C17168 62.5mW Thick Film Resistors 50V 0Ω 1% 0402 Resistor"
 			(at 44.45 171.45 0)
 			(effects
 				(font
@@ -38538,7 +38538,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "0201ZD104KAT2A"
+		(property "PART-NUMBER" "C1525"
 			(at 97.79 241.3 0)
 			(effects
 				(font
@@ -38556,7 +38556,7 @@
 				(hide yes)
 			)
 		)
-		(property "Rating" "10V"
+		(property "Rating" "16V"
 			(at 97.79 241.3 0)
 			(effects
 				(font
@@ -38565,7 +38565,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "0.1u 10V 20%"
+		(property "Comment" "C1525 16V 0.1uF 10% 0402 Capacitor"
 			(at 97.79 241.3 0)
 			(effects
 				(font
@@ -38653,7 +38653,7 @@
 				(hide yes)
 			)
 		)
-		(property "Rating" "10V"
+		(property "Rating" "50V"
 			(at 121.92 241.3 0)
 			(effects
 				(font
@@ -38662,7 +38662,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "885012205007"
+		(property "PART-NUMBER" "C284989"
 			(at 121.92 241.3 0)
 			(effects
 				(font
@@ -38671,7 +38671,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "1500p 10V 20%"
+		(property "Comment" "C284989 50V 1500pF 10% 0402 Capacitor"
 			(at 121.92 241.3 0)
 			(effects
 				(font
@@ -38722,7 +38722,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 363.982 205.74 90)
 			(effects
 				(font
@@ -38749,7 +38749,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "CRCW04020000Z0EEHP"
+		(property "PART-NUMBER" "C17168"
 			(at 365.76 205.74 0)
 			(effects
 				(font
@@ -38775,7 +38775,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "0 1%"
+		(property "Comment" "C17168 62.5mW Thick Film Resistors 50V 0Ω 1% 0402 Resistor"
 			(at 365.76 205.74 0)
 			(effects
 				(font
@@ -38853,7 +38853,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "0201ZD104KAT2A"
+		(property "PART-NUMBER" "C1525"
 			(at 359.41 73.66 0)
 			(effects
 				(font
@@ -38871,7 +38871,7 @@
 				(hide yes)
 			)
 		)
-		(property "Rating" "10V"
+		(property "Rating" "16V"
 			(at 359.41 73.66 0)
 			(effects
 				(font
@@ -38880,7 +38880,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "0.1u 10V 20%"
+		(property "Comment" "C1525 16V 0.1uF 10% 0402 Capacitor"
 			(at 359.41 73.66 0)
 			(effects
 				(font
@@ -38974,7 +38974,7 @@
 				)
 			)
 		)
-		(property "PART-NUMBER" "LMK105SD472JV-F"
+		(property "PART-NUMBER" "C7503510"
 			(at 121.92 266.7 0)
 			(effects
 				(font
@@ -38983,7 +38983,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "4700p 10V 20%"
+		(property "Comment" "C7503510 10V 4700pF 10% 0402 Capacitor"
 			(at 121.92 266.7 0)
 			(effects
 				(font
@@ -39127,7 +39127,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "0201ZD104KAT2A"
+		(property "PART-NUMBER" "C1525"
 			(at 336.55 73.66 0)
 			(effects
 				(font
@@ -39145,7 +39145,7 @@
 				(hide yes)
 			)
 		)
-		(property "Rating" "10V"
+		(property "Rating" "16V"
 			(at 336.55 73.66 0)
 			(effects
 				(font
@@ -39154,7 +39154,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "0.1u 10V 20%"
+		(property "Comment" "C1525 16V 0.1uF 10% 0402 Capacitor"
 			(at 336.55 73.66 0)
 			(effects
 				(font
@@ -39248,7 +39248,7 @@
 				)
 			)
 		)
-		(property "PART-NUMBER" "LMK105SD472JV-F"
+		(property "PART-NUMBER" "C7503510"
 			(at 142.24 241.3 0)
 			(effects
 				(font
@@ -39257,7 +39257,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "4700p 10V 20%"
+		(property "Comment" "C7503510 10V 4700pF 10% 0402 Capacitor"
 			(at 142.24 241.3 0)
 			(effects
 				(font
@@ -39372,7 +39372,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 44.45 163.068 90)
 			(effects
 				(font
@@ -39399,7 +39399,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "MCS04020D1202BE000"
+		(property "PART-NUMBER" "C102781"
 			(at 44.45 161.29 90)
 			(effects
 				(font
@@ -39425,7 +39425,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "12k 1%"
+		(property "Comment" "C102781 62.5mW Thick Film Resistors 50V 12kΩ 1% 0402 Resistor"
 			(at 44.45 161.29 0)
 			(effects
 				(font
@@ -39633,7 +39633,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "LTST-C193TBKT-5A"
+		(property "PART-NUMBER" ""
 			(at 27.94 186.69 0)
 			(effects
 				(font
@@ -39880,7 +39880,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "RP2040"
+		(property "PART-NUMBER" "C2040 "
 			(at 304.8 135.89 0)
 			(effects
 				(font
@@ -39889,7 +39889,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "RP2040"
+		(property "Comment" "C2040 RP2040"
 			(at 304.8 135.89 0)
 			(effects
 				(font
@@ -40130,7 +40130,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "C0402C100J8GACTU"
+		(property "PART-NUMBER" "C1545"
 			(at 179.07 215.9 90)
 			(effects
 				(font
@@ -40155,7 +40155,7 @@
 				)
 			)
 		)
-		(property "Comment" "10p 10V 20%"
+		(property "Comment" "C1545 50V 10pF 5% 0402 Capacitor"
 			(at 179.07 215.9 0)
 			(effects
 				(font
@@ -40336,7 +40336,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 304.8 231.648 90)
 			(effects
 				(font
@@ -40380,7 +40380,7 @@
 				)
 			)
 		)
-		(property "PART-NUMBER" "CRT0402AFY-1001GLF"
+		(property "PART-NUMBER" "C106235"
 			(at 304.8 229.87 90)
 			(effects
 				(font
@@ -40389,7 +40389,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "1k 1%"
+		(property "Comment" "C106235 62.5mW Thick Film Resistors 50V 1kΩ 1% 0402 Resistor"
 			(at 304.8 229.87 0)
 			(effects
 				(font
@@ -40477,7 +40477,7 @@
 				(hide yes)
 			)
 		)
-		(property "Rating" "10V"
+		(property "Rating" "50V"
 			(at 83.82 266.7 0)
 			(effects
 				(font
@@ -40486,7 +40486,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "885012205007"
+		(property "PART-NUMBER" "C284989"
 			(at 83.82 266.7 0)
 			(effects
 				(font
@@ -40495,7 +40495,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "1500p 10V 20%"
+		(property "Comment" "C284989 50V 1500pF 10% 0402 Capacitor"
 			(at 83.82 266.7 0)
 			(effects
 				(font
@@ -40763,7 +40763,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "0201ZD104KAT2A"
+		(property "PART-NUMBER" "C1525"
 			(at 86.36 241.3 0)
 			(effects
 				(font
@@ -40780,7 +40780,7 @@
 				)
 			)
 		)
-		(property "Rating" "10V"
+		(property "Rating" "16V"
 			(at 103.886 236.474 0)
 			(effects
 				(font
@@ -40788,7 +40788,7 @@
 				)
 			)
 		)
-		(property "Comment" "0.1u 10V 20%"
+		(property "Comment" "C1525 16V 0.1uF 10% 0402 Capacitor"
 			(at 86.36 241.3 0)
 			(effects
 				(font
@@ -41244,7 +41244,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "LMK105SD472JV-F"
+		(property "PART-NUMBER" "C7503510"
 			(at 58.42 266.7 0)
 			(effects
 				(font
@@ -41253,7 +41253,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "4700p 10V 20%"
+		(property "Comment" "C7503510 10V 4700pF 10% 0402 Capacitor"
 			(at 58.42 266.7 0)
 			(effects
 				(font
@@ -41329,7 +41329,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "VJ0402A150KXQCW1BC"
+		(property "PART-NUMBER" "C1548"
 			(at 271.78 212.09 90)
 			(effects
 				(font
@@ -41346,7 +41346,7 @@
 				)
 			)
 		)
-		(property "Rating" "10V"
+		(property "Rating" "50V"
 			(at 276.098 207.01 90)
 			(effects
 				(font
@@ -41354,7 +41354,7 @@
 				)
 			)
 		)
-		(property "Comment" "15p 10V 20%"
+		(property "Comment" "C1548 50V 15pF 5% 0402 Capacitor"
 			(at 271.78 212.09 0)
 			(effects
 				(font
@@ -41498,7 +41498,7 @@
 				(hide yes)
 			)
 		)
-		(property "Rating" "25V"
+		(property "Rating" "50V"
 			(at 286.004 83.566 0)
 			(effects
 				(font
@@ -41514,7 +41514,7 @@
 				)
 			)
 		)
-		(property "PART-NUMBER" "TMK105BJ105MV-F"
+		(property "PART-NUMBER" "C1518208"
 			(at 292.1 82.55 0)
 			(effects
 				(font
@@ -41523,7 +41523,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "1u 25V 20%"
+		(property "Comment" "C1518208 50V 1uF 10% 0402 Capacitor"
 			(at 292.1 82.55 0)
 			(effects
 				(font
@@ -41704,7 +41704,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 266.7 109.728 90)
 			(effects
 				(font
@@ -41739,7 +41739,7 @@
 				)
 			)
 		)
-		(property "PART-NUMBER" "RT0402BRE0727R4L"
+		(property "PART-NUMBER" "C284479"
 			(at 266.7 107.95 90)
 			(effects
 				(font
@@ -41757,7 +41757,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "27.4 1%"
+		(property "Comment" "C284479 62.5mW Thick Film Resistors 50V 27.4Ω 1% 0402 Resistor"
 			(at 266.7 107.95 0)
 			(effects
 				(font
@@ -41915,7 +41915,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 44.45 142.748 90)
 			(effects
 				(font
@@ -41942,7 +41942,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "MCS04020D1202BE000"
+		(property "PART-NUMBER" "C102781"
 			(at 44.45 140.97 90)
 			(effects
 				(font
@@ -41968,7 +41968,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "12k 1%"
+		(property "Comment" "C102781 62.5mW Thick Film Resistors 50V 12kΩ 1% 0402 Resistor"
 			(at 44.45 140.97 0)
 			(effects
 				(font
@@ -42060,7 +42060,7 @@
 				)
 			)
 		)
-		(property "PART-NUMBER" "BLM21AG121SN1D"
+		(property "PART-NUMBER" "C88990"
 			(at 24.13 237.49 90)
 			(effects
 				(font
@@ -42069,7 +42069,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "BLM21AG121SN1D"
+		(property "Comment" "C88990 100mΩ ±25% 120Ω@100MHz 0805 Ferrite Beads"
 			(at 24.13 237.49 0)
 			(effects
 				(font
@@ -42213,7 +42213,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "0201ZD104KAT2A"
+		(property "PART-NUMBER" "C1525"
 			(at 24.13 266.7 0)
 			(effects
 				(font
@@ -42230,7 +42230,7 @@
 				)
 			)
 		)
-		(property "Rating" "10V"
+		(property "Rating" "16V"
 			(at 52.578 261.62 0)
 			(effects
 				(font
@@ -42238,7 +42238,7 @@
 				)
 			)
 		)
-		(property "Comment" "0.1u 10V 20%"
+		(property "Comment" "C1525 16V 0.1uF 10% 0402 Capacitor"
 			(at 24.13 266.7 0)
 			(effects
 				(font
@@ -42396,7 +42396,7 @@
 				)
 			)
 		)
-		(property "PART-NUMBER" "BLM21AG121SN1D"
+		(property "PART-NUMBER" "C88990"
 			(at 107.95 262.89 90)
 			(effects
 				(font
@@ -42405,7 +42405,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "BLM21AG121SN1D"
+		(property "Comment" "C88990 100mΩ ±25% 120Ω@100MHz 0805 Ferrite Beads"
 			(at 107.95 262.89 0)
 			(effects
 				(font
@@ -42625,7 +42625,7 @@
 				(hide yes)
 			)
 		)
-		(property "Rating" "10V"
+		(property "Rating" "50V"
 			(at 71.12 241.3 0)
 			(effects
 				(font
@@ -42634,7 +42634,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "885012205007"
+		(property "PART-NUMBER" "C284989"
 			(at 71.12 241.3 0)
 			(effects
 				(font
@@ -42643,7 +42643,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "1500p 10V 20%"
+		(property "Comment" "C284989 50V 1500pF 10% 0402 Capacitor"
 			(at 71.12 241.3 0)
 			(effects
 				(font
@@ -42806,7 +42806,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "LMK105SD472JV-F"
+		(property "PART-NUMBER" "C7503510"
 			(at 109.22 241.3 0)
 			(effects
 				(font
@@ -42815,7 +42815,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "4700p 10V 20%"
+		(property "Comment" "C7503510 10V 4700pF 10% 0402 Capacitor"
 			(at 109.22 241.3 0)
 			(effects
 				(font
@@ -42912,7 +42912,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "LMK105SD472JV-F"
+		(property "PART-NUMBER" "C7503510"
 			(at 58.42 241.3 0)
 			(effects
 				(font
@@ -42921,7 +42921,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "4700p 10V 20%"
+		(property "Comment" "C7503510 10V 4700pF 10% 0402 Capacitor"
 			(at 58.42 241.3 0)
 			(effects
 				(font
@@ -43013,7 +43013,7 @@
 				)
 			)
 		)
-		(property "PART-NUMBER" "BLM21AG121SN1D"
+		(property "PART-NUMBER" "C88990"
 			(at 132.08 237.49 90)
 			(effects
 				(font
@@ -43022,7 +43022,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "BLM21AG121SN1D"
+		(property "Comment" "C88990 100mΩ ±25% 120Ω@100MHz 0805 Ferrite Beads"
 			(at 132.08 237.49 0)
 			(effects
 				(font
@@ -43540,7 +43540,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 209.55 235.458 90)
 			(effects
 				(font
@@ -43584,7 +43584,7 @@
 				)
 			)
 		)
-		(property "PART-NUMBER" "CRT0402AFY-1001GLF"
+		(property "PART-NUMBER" "C106235"
 			(at 209.55 233.68 90)
 			(effects
 				(font
@@ -43593,7 +43593,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "1k 1%"
+		(property "Comment" "C106235 62.5mW Thick Film Resistors 50V 1kΩ 1% 0402 Resistor"
 			(at 209.55 233.68 0)
 			(effects
 				(font
@@ -43737,7 +43737,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "0201ZD104KAT2A"
+		(property "PART-NUMBER" "C1525"
 			(at 347.98 73.66 0)
 			(effects
 				(font
@@ -43755,7 +43755,7 @@
 				(hide yes)
 			)
 		)
-		(property "Rating" "10V"
+		(property "Rating" "16V"
 			(at 347.98 73.66 0)
 			(effects
 				(font
@@ -43764,7 +43764,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "0.1u 10V 20%"
+		(property "Comment" "C1525 16V 0.1uF 10% 0402 Capacitor"
 			(at 347.98 73.66 0)
 			(effects
 				(font
@@ -43813,7 +43813,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 38.1 178.308 90)
 			(effects
 				(font
@@ -43840,7 +43840,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "CR0402-FX-3300GLF"
+		(property "PART-NUMBER" "C25104"
 			(at 38.1 176.53 0)
 			(effects
 				(font
@@ -43857,7 +43857,7 @@
 				)
 			)
 		)
-		(property "Comment" "330 1%"
+		(property "Comment" "C25104 62.5mW Thick Film Resistors 50V 330Ω 1% 0402 Resistor"
 			(at 38.1 176.53 0)
 			(effects
 				(font
@@ -44065,7 +44065,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "LTST-C193TBKT-5A"
+		(property "PART-NUMBER" ""
 			(at 27.94 176.53 0)
 			(effects
 				(font
@@ -44170,7 +44170,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "0201ZD104KAT2A"
+		(property "PART-NUMBER" "C1525"
 			(at 370.84 73.66 0)
 			(effects
 				(font
@@ -44188,7 +44188,7 @@
 				(hide yes)
 			)
 		)
-		(property "Rating" "10V"
+		(property "Rating" "16V"
 			(at 370.84 73.66 0)
 			(effects
 				(font
@@ -44197,7 +44197,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "0.1u 10V 20%"
+		(property "Comment" "C1525 16V 0.1uF 10% 0402 Capacitor"
 			(at 370.84 73.66 0)
 			(effects
 				(font
@@ -44312,7 +44312,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 350.52 220.218 90)
 			(effects
 				(font
@@ -44356,7 +44356,7 @@
 				)
 			)
 		)
-		(property "PART-NUMBER" "CRT0402AFY-1001GLF"
+		(property "PART-NUMBER" "C106235"
 			(at 350.52 218.44 90)
 			(effects
 				(font
@@ -44365,7 +44365,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "1k 1%"
+		(property "Comment" "C106235 62.5mW Thick Film Resistors 50V 1kΩ 1% 0402 Resistor"
 			(at 350.52 218.44 0)
 			(effects
 				(font
@@ -44641,7 +44641,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "0201ZD104KAT2A"
+		(property "PART-NUMBER" "C1525"
 			(at 46.99 266.7 0)
 			(effects
 				(font
@@ -44659,7 +44659,7 @@
 				(hide yes)
 			)
 		)
-		(property "Rating" "10V"
+		(property "Rating" "16V"
 			(at 46.99 266.7 0)
 			(effects
 				(font
@@ -44668,7 +44668,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "0.1u 10V 20%"
+		(property "Comment" "C1525 16V 0.1uF 10% 0402 Capacitor"
 			(at 46.99 266.7 0)
 			(effects
 				(font
@@ -44746,7 +44746,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "0201ZD104KAT2A"
+		(property "PART-NUMBER" "C1525"
 			(at 270.51 74.93 0)
 			(effects
 				(font
@@ -44763,7 +44763,7 @@
 				)
 			)
 		)
-		(property "Rating" "10V"
+		(property "Rating" "16V"
 			(at 264.16 75.692 0)
 			(effects
 				(font
@@ -44771,7 +44771,7 @@
 				)
 			)
 		)
-		(property "Comment" "0.1u 10V 20%"
+		(property "Comment" "C1525 16V 0.1uF 10% 0402 Capacitor"
 			(at 270.51 74.93 0)
 			(effects
 				(font
@@ -44820,7 +44820,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 179.578 264.16 90)
 			(effects
 				(font
@@ -44847,7 +44847,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "MCS04020D1202BE000"
+		(property "PART-NUMBER" "C102781"
 			(at 177.8 264.16 90)
 			(effects
 				(font
@@ -44873,7 +44873,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "12k 1%"
+		(property "Comment" "C102781 62.5mW Thick Film Resistors 50V 12kΩ 1% 0402 Resistor"
 			(at 177.8 264.16 0)
 			(effects
 				(font
@@ -45017,7 +45017,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "0201ZD104KAT2A"
+		(property "PART-NUMBER" "C1525"
 			(at 281.94 74.93 0)
 			(effects
 				(font
@@ -45035,7 +45035,7 @@
 				(hide yes)
 			)
 		)
-		(property "Rating" "10V"
+		(property "Rating" "16V"
 			(at 281.94 74.93 0)
 			(effects
 				(font
@@ -45044,7 +45044,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "0.1u 10V 20%"
+		(property "Comment" "C1525 16V 0.1uF 10% 0402 Capacitor"
 			(at 281.94 74.93 0)
 			(effects
 				(font
@@ -45093,7 +45093,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 260.35 107.188 90)
 			(effects
 				(font
@@ -45128,7 +45128,7 @@
 				)
 			)
 		)
-		(property "PART-NUMBER" "RT0402BRE0727R4L"
+		(property "PART-NUMBER" "C284479"
 			(at 260.35 105.41 90)
 			(effects
 				(font
@@ -45146,7 +45146,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "27.4 1%"
+		(property "Comment" "C284479 62.5mW Thick Film Resistors 50V 27.4Ω 1% 0402 Resistor"
 			(at 260.35 105.41 0)
 			(effects
 				(font
@@ -45243,7 +45243,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "LMK105SD472JV-F"
+		(property "PART-NUMBER" "C7503510"
 			(at 71.12 266.7 0)
 			(effects
 				(font
@@ -45252,7 +45252,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "4700p 10V 20%"
+		(property "Comment" "C7503510 10V 4700pF 10% 0402 Capacitor"
 			(at 71.12 266.7 0)
 			(effects
 				(font
@@ -45330,7 +45330,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "0201ZD104KAT2A"
+		(property "PART-NUMBER" "C1525"
 			(at 325.12 73.66 0)
 			(effects
 				(font
@@ -45348,7 +45348,7 @@
 				(hide yes)
 			)
 		)
-		(property "Rating" "10V"
+		(property "Rating" "16V"
 			(at 325.12 73.66 0)
 			(effects
 				(font
@@ -45357,7 +45357,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "0.1u 10V 20%"
+		(property "Comment" "C1525 16V 0.1uF 10% 0402 Capacitor"
 			(at 325.12 73.66 0)
 			(effects
 				(font
@@ -45408,7 +45408,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 33.02 217.678 90)
 			(effects
 				(font
@@ -45452,7 +45452,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "CRCW040210K0FKEDC"
+		(property "PART-NUMBER" "C60490 "
 			(at 33.02 215.9 0)
 			(effects
 				(font
@@ -45461,7 +45461,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "10k 1%"
+		(property "Comment" "C60490 62.5mW Thick Film Resistors 50V 10kΩ 1% 0402 Resistor"
 			(at 33.02 215.9 0)
 			(effects
 				(font
@@ -45539,7 +45539,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "0201ZD104KAT2A"
+		(property "PART-NUMBER" "C1525"
 			(at 46.99 241.3 0)
 			(effects
 				(font
@@ -45557,7 +45557,7 @@
 				(hide yes)
 			)
 		)
-		(property "Rating" "10V"
+		(property "Rating" "16V"
 			(at 46.99 241.3 0)
 			(effects
 				(font
@@ -45566,7 +45566,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "0.1u 10V 20%"
+		(property "Comment" "C1525 16V 0.1uF 10% 0402 Capacitor"
 			(at 46.99 241.3 0)
 			(effects
 				(font
@@ -45710,7 +45710,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "0201ZD104KAT2A"
+		(property "PART-NUMBER" "C1525"
 			(at 387.35 205.74 0)
 			(effects
 				(font
@@ -45727,7 +45727,7 @@
 				)
 			)
 		)
-		(property "Rating" "10V"
+		(property "Rating" "16V"
 			(at 397.764 206.502 0)
 			(effects
 				(font
@@ -45735,7 +45735,7 @@
 				)
 			)
 		)
-		(property "Comment" "0.1u 10V 20%"
+		(property "Comment" "C1525 16V 0.1uF 10% 0402 Capacitor"
 			(at 387.35 205.74 0)
 			(effects
 				(font
@@ -45813,7 +45813,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "0201ZD104KAT2A"
+		(property "PART-NUMBER" "C1525"
 			(at 382.27 73.66 0)
 			(effects
 				(font
@@ -45831,7 +45831,7 @@
 				(hide yes)
 			)
 		)
-		(property "Rating" "10V"
+		(property "Rating" "16V"
 			(at 382.27 73.66 0)
 			(effects
 				(font
@@ -45840,7 +45840,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "0.1u 10V 20%"
+		(property "Comment" "C1525 16V 0.1uF 10% 0402 Capacitor"
 			(at 382.27 73.66 0)
 			(effects
 				(font
@@ -45926,7 +45926,7 @@
 				)
 			)
 		)
-		(property "Rating" "10V"
+		(property "Rating" "16V"
 			(at 52.578 249.174 0)
 			(effects
 				(font
@@ -45934,7 +45934,7 @@
 				)
 			)
 		)
-		(property "PART-NUMBER" "0201ZD104KAT2A"
+		(property "PART-NUMBER" "C1525"
 			(at 35.56 241.3 0)
 			(effects
 				(font
@@ -45943,7 +45943,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "0.1u 10V 20%"
+		(property "Comment" "C1525 16V 0.1uF 10% 0402 Capacitor"
 			(at 35.56 241.3 0)
 			(effects
 				(font
@@ -46087,7 +46087,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "0201ZD104KAT2A"
+		(property "PART-NUMBER" "C1525"
 			(at 35.56 266.7 0)
 			(effects
 				(font
@@ -46105,7 +46105,7 @@
 				(hide yes)
 			)
 		)
-		(property "Rating" "10V"
+		(property "Rating" "16V"
 			(at 35.56 266.7 0)
 			(effects
 				(font
@@ -46114,7 +46114,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "0.1u 10V 20%"
+		(property "Comment" "C1525 16V 0.1uF 10% 0402 Capacitor"
 			(at 35.56 266.7 0)
 			(effects
 				(font
@@ -46192,7 +46192,7 @@
 				(hide yes)
 			)
 		)
-		(property "Rating" "25V"
+		(property "Rating" "50V"
 			(at 327.406 83.82 0)
 			(effects
 				(font
@@ -46208,7 +46208,7 @@
 				)
 			)
 		)
-		(property "PART-NUMBER" "TMK105BJ105MV-F"
+		(property "PART-NUMBER" "C1518208"
 			(at 318.77 82.55 0)
 			(effects
 				(font
@@ -46217,7 +46217,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "1u 25V 20%"
+		(property "Comment" "C1518208 50V 1uF 10% 0402 Capacitor"
 			(at 318.77 82.55 0)
 			(effects
 				(font
@@ -46266,7 +46266,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 38.1 188.468 90)
 			(effects
 				(font
@@ -46293,7 +46293,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "CR0402-FX-3300GLF"
+		(property "PART-NUMBER" "C25104"
 			(at 38.1 186.69 0)
 			(effects
 				(font
@@ -46310,7 +46310,7 @@
 				)
 			)
 		)
-		(property "Comment" "330 1%"
+		(property "Comment" "C25104 62.5mW Thick Film Resistors 50V 330Ω 1% 0402 Resistor"
 			(at 38.1 186.69 0)
 			(effects
 				(font

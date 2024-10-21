@@ -77,7 +77,6 @@
         "malformed_courtyard|130109000|89091629|e0d7edfb-8387-4c36-bbe2-19f9fa2c495b|00000000-0000-0000-0000-000000000000",
         "malformed_courtyard|137882401|48197629|2c3441f1-b561-4f76-85ee-ef8c907bc164|00000000-0000-0000-0000-000000000000",
         "malformed_courtyard|139492401|52202629|2c3441f1-b561-4f76-85ee-ef8c907bc164|00000000-0000-0000-0000-000000000000",
-        "malformed_courtyard|141732401|47755129|2c3441f1-b561-4f76-85ee-ef8c907bc164|00000000-0000-0000-0000-000000000000",
         "malformed_courtyard|143342401|51757629|2c3441f1-b561-4f76-85ee-ef8c907bc164|00000000-0000-0000-0000-000000000000"
       ],
       "meta": {
@@ -497,7 +496,14 @@
       "version": 3
     },
     "net_colors": null,
-    "netclass_assignments": null,
+    "netclass_assignments": {
+      "/Connectors/ETH_RXN": "DIFFPAIR",
+      "/Connectors/ETH_RXP": "DIFFPAIR",
+      "/Connectors/ETH_TXN": "DIFFPAIR",
+      "/Connectors/ETH_TXP": "DIFFPAIR",
+      "/Connectors/USB_DN": "DIFFPAIR",
+      "/Connectors/USB_DP": "DIFFPAIR"
+    },
     "netclass_patterns": []
   },
   "pcbnew": {
@@ -540,7 +546,7 @@
           "group_by": false,
           "label": "PART-NUMBER",
           "name": "PART-NUMBER",
-          "show": false
+          "show": true
         },
         {
           "group_by": true,
@@ -570,7 +576,7 @@
           "group_by": false,
           "label": "Packaging",
           "name": "Packaging",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
@@ -582,7 +588,7 @@
           "group_by": true,
           "label": "Footprint",
           "name": "Footprint",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,

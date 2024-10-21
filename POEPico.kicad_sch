@@ -228,7 +228,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "Connectors.,kicad_sch.kicad_sch"
+		(property "Sheetfile" "Connectors.kicad_sch"
 			(at 127 64.0846 0)
 			(effects
 				(font

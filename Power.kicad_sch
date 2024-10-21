@@ -23339,7 +23339,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "BAT46W-E3-18"
+		(property "PART-NUMBER" ""
 			(at 359.41 130.81 90)
 			(effects
 				(font
@@ -23424,7 +23424,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "TMK105BJ105MV-F"
+		(property "PART-NUMBER" "C1518208"
 			(at 297.18 125.73 0)
 			(effects
 				(font
@@ -23441,7 +23441,7 @@
 				)
 			)
 		)
-		(property "Rating" "25V"
+		(property "Rating" "50V"
 			(at 302.514 121.92 90)
 			(effects
 				(font
@@ -23449,7 +23449,7 @@
 				)
 			)
 		)
-		(property "Comment" "1u 25V 20%"
+		(property "Comment" "C1518208 50V 1uF 10% 0402 Capacitor"
 			(at 297.18 125.73 0)
 			(effects
 				(font
@@ -23525,7 +23525,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "1206GC222KAT1A"
+		(property "PART-NUMBER" "C41018 "
 			(at 311.15 147.32 0)
 			(effects
 				(font
@@ -23550,7 +23550,7 @@
 				)
 			)
 		)
-		(property "Comment" "2200p 2kV 20%"
+		(property "Comment" "C41018 2kV 2200pF 10% 1206 Capacitor"
 			(at 311.15 147.32 0)
 			(effects
 				(font
@@ -23601,7 +23601,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 170.18 121.412 90)
 			(effects
 				(font
@@ -23628,7 +23628,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "CRCW06038R20FKEAHP"
+		(property "PART-NUMBER" "C23247"
 			(at 170.18 123.19 0)
 			(effects
 				(font
@@ -23646,7 +23646,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "8.2 1%"
+		(property "Comment" "C23247 100mW Thick Film Resistors 75V 8.2Ω 1% 0603 Resistor"
 			(at 170.18 123.19 0)
 			(effects
 				(font
@@ -23697,7 +23697,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 278.892 74.93 90)
 			(effects
 				(font
@@ -23724,7 +23724,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "CRCW06036K65FKTA"
+		(property "PART-NUMBER" "C3016441"
 			(at 280.67 74.93 0)
 			(effects
 				(font
@@ -23742,7 +23742,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "6.65k 1%"
+		(property "Comment" "C3016441 100mW Thick Film Resistors 75V 6.65kΩ 1% 0603 Resistor"
 			(at 280.67 74.93 0)
 			(effects
 				(font
@@ -23821,7 +23821,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "SMAJ24A"
+		(property "PART-NUMBER" "C10769"
 			(at 73.66 196.85 90)
 			(effects
 				(font
@@ -23830,7 +23830,16 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "SMAJ24A"
+		(property "Comment" "C10769 SMAJ24A 10.3A 38.9V 26.7V 24V"
+			(at 73.66 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Packaging" "DO-214AC"
 			(at 73.66 196.85 0)
 			(effects
 				(font
@@ -23906,7 +23915,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "1206GC222KAT1A"
+		(property "PART-NUMBER" "C41018 "
 			(at 311.15 39.37 0)
 			(effects
 				(font
@@ -23931,7 +23940,7 @@
 				)
 			)
 		)
-		(property "Comment" "2200p 2kV 20%"
+		(property "Comment" "C41018 2kV 2200pF 10% 1206 Capacitor"
 			(at 311.15 39.37 0)
 			(effects
 				(font
@@ -24078,7 +24087,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "PSMN075-100MSEX"
+		(property "PART-NUMBER" "C478016"
 			(at 168.91 237.49 0)
 			(effects
 				(font
@@ -24087,7 +24096,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "PSMN075-100MSEX"
+		(property "Comment" "C478016 PSMN075-100MSEX"
 			(at 168.91 237.49 0)
 			(effects
 				(font
@@ -24373,7 +24382,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "MMBT3906"
+		(property "PART-NUMBER" "C7420354"
 			(at 350.52 102.87 0)
 			(effects
 				(font
@@ -24382,7 +24391,16 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "MMBT3906"
+		(property "Comment" "C7420354 MMBT3906"
+			(at 350.52 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Packaging" "SOT-23"
 			(at 350.52 102.87 0)
 			(effects
 				(font
@@ -24503,7 +24521,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 357.632 116.84 90)
 			(effects
 				(font
@@ -24530,7 +24548,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "CRCW060315R0FKEAHP"
+		(property "PART-NUMBER" "C22810"
 			(at 359.41 116.84 0)
 			(effects
 				(font
@@ -24548,7 +24566,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "15 1%"
+		(property "Comment" "C22810 100mW Thick Film Resistors 75V 15Ω 1% 0603 Resistor"
 			(at 359.41 116.84 0)
 			(effects
 				(font
@@ -24600,7 +24618,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 290.322 57.15 90)
 			(effects
 				(font
@@ -24636,7 +24654,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "CRCW0805100RFKEAHP"
+		(property "PART-NUMBER" "C441975"
 			(at 292.1 57.15 0)
 			(effects
 				(font
@@ -24654,7 +24672,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "100 1/2W 5%"
+		(property "Comment" "C441975 500mW Thick Film Resistors 100Ω 5% 0805 Resistor"
 			(at 292.1 57.15 0)
 			(effects
 				(font
@@ -24732,7 +24750,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "0201ZD104KAT2A"
+		(property "PART-NUMBER" "C1525"
 			(at 355.6 184.15 0)
 			(effects
 				(font
@@ -24749,7 +24767,7 @@
 				)
 			)
 		)
-		(property "Rating" "10V"
+		(property "Rating" "16V"
 			(at 359.156 180.34 90)
 			(effects
 				(font
@@ -24757,7 +24775,7 @@
 				)
 			)
 		)
-		(property "Comment" "0.1u 10V 20%"
+		(property "Comment" "C1525 16V 0.1uF 10% 0402 Capacitor"
 			(at 355.6 184.15 0)
 			(effects
 				(font
@@ -24976,7 +24994,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "GRM21BD72A225ME01K"
+		(property "PART-NUMBER" "C6119935"
 			(at 210.82 49.53 0)
 			(effects
 				(font
@@ -24994,7 +25012,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "2.2u 100V 20%"
+		(property "Comment" "C6119935 100V 2.2uF 10% 0805 Capacitor"
 			(at 210.82 49.53 0)
 			(effects
 				(font
@@ -25088,7 +25106,7 @@
 				)
 			)
 		)
-		(property "PART-NUMBER" "CM105X5R106M25AT"
+		(property "PART-NUMBER" "C96446"
 			(at 317.5 187.96 0)
 			(effects
 				(font
@@ -25097,7 +25115,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "10u 25V 20%"
+		(property "Comment" "C96446 25V 10uF 20% 0603 Capacitor"
 			(at 317.5 187.96 0)
 			(effects
 				(font
@@ -25321,7 +25339,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 155.702 88.9 90)
 			(effects
 				(font
@@ -25348,7 +25366,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "ERJ-3GEYJ332V"
+		(property "PART-NUMBER" "C22978"
 			(at 157.48 88.9 0)
 			(effects
 				(font
@@ -25366,7 +25384,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "3.3k 1%"
+		(property "Comment" "C22978 100mW Thick Film Resistors 75V 3.3kΩ 1% 0603 Resistor"
 			(at 157.48 88.9 0)
 			(effects
 				(font
@@ -25475,7 +25493,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "BAS19LT1G"
+		(property "Value" "BAS21_R1_00001"
 			(at 224.79 82.5499 90)
 			(effects
 				(font
@@ -25493,7 +25511,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "BAS19LT1G"
+		(property "Datasheet" "BAS21_R1_00001"
 			(at 222.25 81.28 0)
 			(effects
 				(font
@@ -25538,7 +25556,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "BAS19LT1G"
+		(property "PART-NUMBER" "C391392"
 			(at 222.25 81.28 90)
 			(effects
 				(font
@@ -25547,7 +25565,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "BAS19LT1G"
+		(property "Comment" "BAS21_R1_00001"
 			(at 222.25 81.28 0)
 			(effects
 				(font
@@ -25599,7 +25617,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 342.138 130.81 90)
 			(effects
 				(font
@@ -25626,7 +25644,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "CRCW040210K0FKEDC"
+		(property "PART-NUMBER" "C60490 "
 			(at 340.36 130.81 0)
 			(effects
 				(font
@@ -25644,7 +25662,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "10k 1%"
+		(property "Comment" "C60490 62.5mW Thick Film Resistors 50V 10kΩ 1% 0402 Resistor"
 			(at 340.36 130.81 0)
 			(effects
 				(font
@@ -25761,7 +25779,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 244.602 151.13 90)
 			(effects
 				(font
@@ -25788,7 +25806,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "AC0603FR-07107KL"
+		(property "PART-NUMBER" "C14889"
 			(at 246.38 151.13 0)
 			(effects
 				(font
@@ -25806,7 +25824,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "107k 1%"
+		(property "Comment" "C14889 100mW Thick Film Resistors 75V 107kΩ 1% 0603 Resistor"
 			(at 246.38 151.13 0)
 			(effects
 				(font
@@ -25950,7 +25968,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "GRM155R61A106ME11J"
+		(property "PART-NUMBER" "C77000"
 			(at 246.38 81.28 0)
 			(effects
 				(font
@@ -25975,7 +25993,7 @@
 				)
 			)
 		)
-		(property "Comment" "10u 10V 20%"
+		(property "Comment" "C77000 10V 10uF 20% 0402 Capacitor"
 			(at 246.38 81.28 0)
 			(effects
 				(font
@@ -26027,7 +26045,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_1210_3225Metric"
 			(at 323.342 92.71 90)
 			(effects
 				(font
@@ -26063,7 +26081,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "ERJ-P06J110V"
+		(property "PART-NUMBER" "C422425"
 			(at 325.12 92.71 0)
 			(effects
 				(font
@@ -26072,7 +26090,7 @@
 				(hide yes)
 			)
 		)
-		(property "Packaging" "0805"
+		(property "Packaging" "1210"
 			(at 325.12 92.71 0)
 			(effects
 				(font
@@ -26081,7 +26099,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "11 1/2W 5%"
+		(property "Comment" "C422425 1/2W Thick Film Resistors 11Ω 1% 1210 Resistor"
 			(at 325.12 92.71 0)
 			(effects
 				(font
@@ -26228,7 +26246,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "TPN1600ANH"
+		(property "PART-NUMBER" ""
 			(at 344.17 78.74 0)
 			(effects
 				(font
@@ -26237,7 +26255,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "TPN1600ANH"
+		(property "Comment" "TPN1600ANH,L1Q"
 			(at 344.17 78.74 0)
 			(effects
 				(font
@@ -26327,7 +26345,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "PSMN075-100MSEX"
+		(property "PART-NUMBER" "C478016"
 			(at 97.79 237.49 0)
 			(effects
 				(font
@@ -26336,7 +26354,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "PSMN075-100MSEX"
+		(property "Comment" "C478016 PSMN075-100MSEX"
 			(at 97.79 237.49 0)
 			(effects
 				(font
@@ -26397,7 +26415,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 261.112 151.13 90)
 			(effects
 				(font
@@ -26424,7 +26442,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "CRCW060326K1FKTA"
+		(property "PART-NUMBER" "C23356"
 			(at 262.89 151.13 0)
 			(effects
 				(font
@@ -26442,7 +26460,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "26.1k 1%"
+		(property "Comment" "C23356 100mW Thick Film Resistors 75V 26.1kΩ 1% 0603 Resistor"
 			(at 262.89 151.13 0)
 			(effects
 				(font
@@ -26519,7 +26537,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "DO1608C-103"
+		(property "PART-NUMBER" ""
 			(at 203.2 45.72 0)
 			(effects
 				(font
@@ -26528,7 +26546,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "DO1608C-103"
+		(property "Comment" "DO1608C-103MLC Power Inductors - SMD 10uH Shld 20% 1.5A 160mOhms "
 			(at 203.2 45.72 0)
 			(effects
 				(font
@@ -26606,7 +26624,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "KGM15AR71E332KT"
+		(property "PART-NUMBER" "C5182463 "
 			(at 262.89 142.24 0)
 			(effects
 				(font
@@ -26615,7 +26633,7 @@
 				(hide yes)
 			)
 		)
-		(property "Rating" "25V"
+		(property "Rating" "50V"
 			(at 268.732 147.32 0)
 			(effects
 				(font
@@ -26631,7 +26649,7 @@
 				)
 			)
 		)
-		(property "Comment" "3300p 25V 20%"
+		(property "Comment" "C5182463 50V 3300pF 10% 0603 Capacitor"
 			(at 262.89 142.24 0)
 			(effects
 				(font
@@ -26841,7 +26859,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "CM105X5R106M25AT"
+		(property "PART-NUMBER" "C96446"
 			(at 349.25 57.15 0)
 			(effects
 				(font
@@ -26866,7 +26884,7 @@
 				)
 			)
 		)
-		(property "Comment" "10u 25V 20%"
+		(property "Comment" "C96446 25V 10uF 20% 0603 Capacitor"
 			(at 349.25 57.15 0)
 			(effects
 				(font
@@ -27113,7 +27131,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "FMMT723QTA"
+		(property "PART-NUMBER" ""
 			(at 227.33 68.58 0)
 			(effects
 				(font
@@ -27374,7 +27392,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 207.772 151.13 90)
 			(effects
 				(font
@@ -27409,7 +27427,7 @@
 				)
 			)
 		)
-		(property "PART-NUMBER" "CRCW060337R4FKEA"
+		(property "PART-NUMBER" "C25195"
 			(at 209.55 151.13 0)
 			(effects
 				(font
@@ -27418,7 +27436,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "37.4 1%"
+		(property "Comment" "C25195 100mW Thick Film Resistors 75V 37.4Ω 1% 0603 Resistor"
 			(at 209.55 151.13 0)
 			(effects
 				(font
@@ -27496,7 +27514,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "C3216X5R1E336M160AC"
+		(property "PART-NUMBER" "C342307"
 			(at 375.92 57.15 0)
 			(effects
 				(font
@@ -27521,7 +27539,7 @@
 				)
 			)
 		)
-		(property "Comment" "33u 25V 20%"
+		(property "Comment" "C342307 25V 33uF 20% 1206 Capacitor"
 			(at 375.92 57.15 0)
 			(effects
 				(font
@@ -27879,7 +27897,7 @@
 				)
 			)
 		)
-		(property "PART-NUMBER" "GRM155R61A106ME11J"
+		(property "PART-NUMBER" "C77000"
 			(at 330.2 236.22 0)
 			(effects
 				(font
@@ -27888,7 +27906,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "10u 10V 20%"
+		(property "Comment" "C77000 10V 10uF 20% 0402 Capacitor"
 			(at 330.2 236.22 0)
 			(effects
 				(font
@@ -28242,7 +28260,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "PSMN075-100MSEX"
+		(property "PART-NUMBER" "C478016"
 			(at 62.23 237.49 0)
 			(effects
 				(font
@@ -28251,7 +28269,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "PSMN075-100MSEX"
+		(property "Comment" "C478016 PSMN075-100MSEX"
 			(at 62.23 237.49 0)
 			(effects
 				(font
@@ -28311,7 +28329,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 278.892 82.55 90)
 			(effects
 				(font
@@ -28338,7 +28356,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "RT0603FRE102KL"
+		(property "PART-NUMBER" "C22975 "
 			(at 280.67 82.55 0)
 			(effects
 				(font
@@ -28356,7 +28374,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "2k 1%"
+		(property "Comment" "C22975 100mW Thick Film Resistors 75V 2kΩ 1% 0603 Resistor"
 			(at 280.67 82.55 0)
 			(effects
 				(font
@@ -28503,7 +28521,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "BSZ900N20NS3GATMA1"
+		(property "PART-NUMBER" ""
 			(at 289.56 97.79 0)
 			(effects
 				(font
@@ -28599,7 +28617,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "TMK105BJ105MV-F"
+		(property "PART-NUMBER" "C1518208"
 			(at 389.89 104.14 0)
 			(effects
 				(font
@@ -28616,7 +28634,7 @@
 				)
 			)
 		)
-		(property "Rating" "25V"
+		(property "Rating" "50V"
 			(at 400.558 105.41 0)
 			(effects
 				(font
@@ -28624,7 +28642,7 @@
 				)
 			)
 		)
-		(property "Comment" "1u 25V 20%"
+		(property "Comment" "C1518208 50V 1uF 10% 0402 Capacitor"
 			(at 389.89 104.14 0)
 			(effects
 				(font
@@ -28675,7 +28693,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 366.522 208.28 90)
 			(effects
 				(font
@@ -28719,7 +28737,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "CRCW040210K0FKEDC"
+		(property "PART-NUMBER" "C60490 "
 			(at 368.3 208.28 0)
 			(effects
 				(font
@@ -28728,7 +28746,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "10k 1%"
+		(property "Comment" "C60490 62.5mW Thick Film Resistors 50V 10kΩ 1% 0402 Resistor"
 			(at 368.3 208.28 0)
 			(effects
 				(font
@@ -28808,7 +28826,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "PSMN075-100MSEX"
+		(property "PART-NUMBER" "C478016"
 			(at 170.18 53.34 0)
 			(effects
 				(font
@@ -28817,7 +28835,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "PSMN075-100MSEX"
+		(property "Comment" "C478016 PSMN075-100MSEX"
 			(at 170.18 53.34 0)
 			(effects
 				(font
@@ -28912,7 +28930,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "DO1813P-181HC"
+		(property "PART-NUMBER" ""
 			(at 365.76 53.34 90)
 			(effects
 				(font
@@ -28921,7 +28939,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "DO1813P-181HC"
+		(property "Comment" "DO1813P-181HC General Purpose Inductor, 0.18uH, 20%, 1 Element, SMD, 3524"
 			(at 365.76 53.34 0)
 			(effects
 				(font
@@ -29002,7 +29020,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "PSMN075-100MSEX"
+		(property "PART-NUMBER" "C478016"
 			(at 168.91 262.89 0)
 			(effects
 				(font
@@ -29011,7 +29029,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "PSMN075-100MSEX"
+		(property "Comment" "C478016 PSMN075-100MSEX"
 			(at 168.91 262.89 0)
 			(effects
 				(font
@@ -29303,7 +29321,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 279.4 127.508 90)
 			(effects
 				(font
@@ -29330,7 +29348,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "CRCW0603100RFKEAHP"
+		(property "PART-NUMBER" "C22775 "
 			(at 279.4 125.73 0)
 			(effects
 				(font
@@ -29348,7 +29366,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "100 1%"
+		(property "Comment" "C22775 100mW Thick Film Resistors 75V 100Ω 1% 0603 Resistor"
 			(at 279.4 125.73 0)
 			(effects
 				(font
@@ -29428,7 +29446,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "MMBT3904"
+		(property "PART-NUMBER" "C7420353"
 			(at 368.3 102.87 0)
 			(effects
 				(font
@@ -29437,7 +29455,16 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "MMBT3904"
+		(property "Comment" "C7420353 MMBT3904"
+			(at 368.3 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Packaging" "SOT-23"
 			(at 368.3 102.87 0)
 			(effects
 				(font
@@ -29623,7 +29650,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 215.392 151.13 90)
 			(effects
 				(font
@@ -29650,7 +29677,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "ERA-3AED102V"
+		(property "PART-NUMBER" "C21190"
 			(at 217.17 151.13 0)
 			(effects
 				(font
@@ -29667,7 +29694,7 @@
 				)
 			)
 		)
-		(property "Comment" "1k 1%"
+		(property "Comment" "C21190 100mW Thick Film Resistors 75V 1kΩ 1% 0603 Resistor"
 			(at 217.17 151.13 0)
 			(effects
 				(font
@@ -29745,7 +29772,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "KGM15ACG1E221JT"
+		(property "PART-NUMBER" "C2897613 "
 			(at 252.73 142.24 0)
 			(effects
 				(font
@@ -29754,7 +29781,7 @@
 				(hide yes)
 			)
 		)
-		(property "Rating" "25V"
+		(property "Rating" "50V"
 			(at 258.318 147.066 0)
 			(effects
 				(font
@@ -29770,7 +29797,7 @@
 				)
 			)
 		)
-		(property "Comment" "220p 25V 20%"
+		(property "Comment" "C2897613 50V 220pF 10% 0603 Capacitor"
 			(at 252.73 142.24 0)
 			(effects
 				(font
@@ -29864,7 +29891,7 @@
 				)
 			)
 		)
-		(property "PART-NUMBER" "08051C473K4Z2A"
+		(property "PART-NUMBER" "C5186810"
 			(at 182.88 127 0)
 			(effects
 				(font
@@ -29873,7 +29900,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "0.047u 100V 20%"
+		(property "Comment" "C5186810 100V 0.047uF 10% 0805 Capacitor"
 			(at 182.88 127 0)
 			(effects
 				(font
@@ -29950,7 +29977,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "DO1608C-104"
+		(property "PART-NUMBER" ""
 			(at 233.68 77.47 90)
 			(effects
 				(font
@@ -30040,7 +30067,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "PSMN075-100MSEX"
+		(property "PART-NUMBER" "C478016"
 			(at 133.35 262.89 0)
 			(effects
 				(font
@@ -30049,7 +30076,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "PSMN075-100MSEX"
+		(property "Comment" "C478016 PSMN075-100MSEX"
 			(at 133.35 262.89 0)
 			(effects
 				(font
@@ -30139,7 +30166,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "PSMN075-100MSEX"
+		(property "PART-NUMBER" "C478016"
 			(at 62.23 262.89 0)
 			(effects
 				(font
@@ -30148,7 +30175,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "PSMN075-100MSEX"
+		(property "Comment" "C478016 PSMN075-100MSEX"
 			(at 62.23 262.89 0)
 			(effects
 				(font
@@ -30208,7 +30235,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 366.522 193.04 90)
 			(effects
 				(font
@@ -30252,7 +30279,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "ERJ-2RKF5232X"
+		(property "PART-NUMBER" "C26982"
 			(at 368.3 193.04 0)
 			(effects
 				(font
@@ -30261,7 +30288,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "52.3k 1%"
+		(property "Comment" "C26982 62.5mW Thick Film Resistors 50V 52.3kΩ 1% 0402 Resistor"
 			(at 368.3 193.04 0)
 			(effects
 				(font
@@ -30339,7 +30366,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "0201ZD104KAT2A"
+		(property "PART-NUMBER" "C1525"
 			(at 232.41 142.24 0)
 			(effects
 				(font
@@ -30356,7 +30383,7 @@
 				)
 			)
 		)
-		(property "Rating" "10V"
+		(property "Rating" "16V"
 			(at 242.062 143.51 0)
 			(effects
 				(font
@@ -30364,7 +30391,7 @@
 				)
 			)
 		)
-		(property "Comment" "0.1u 10V 20%"
+		(property "Comment" "C1525 16V 0.1uF 10% 0402 Capacitor"
 			(at 232.41 142.24 0)
 			(effects
 				(font
@@ -30450,7 +30477,7 @@
 				)
 			)
 		)
-		(property "Rating" "10V"
+		(property "Rating" "25V"
 			(at 398.78 186.69 0)
 			(effects
 				(font
@@ -30458,7 +30485,7 @@
 				)
 			)
 		)
-		(property "PART-NUMBER" "LMK212BBJ226MG-T"
+		(property "PART-NUMBER" "C45783"
 			(at 388.62 185.42 0)
 			(effects
 				(font
@@ -30467,7 +30494,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "22u 10V 20%"
+		(property "Comment" "C45783 25V 22uF 20% 0805 Capacitor"
 			(at 388.62 185.42 0)
 			(effects
 				(font
@@ -30677,7 +30704,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "GRM21A5C2J101JWA1D"
+		(property "PART-NUMBER" "C967584"
 			(at 292.1 49.53 0)
 			(effects
 				(font
@@ -30694,7 +30721,7 @@
 				)
 			)
 		)
-		(property "Rating" "630V"
+		(property "Rating" "1kV"
 			(at 286.258 50.546 0)
 			(effects
 				(font
@@ -30702,7 +30729,7 @@
 				)
 			)
 		)
-		(property "Comment" "100p 630V 20%"
+		(property "Comment" "C967584 1kV 100pF 5% 0805 Capacitor"
 			(at 292.1 49.53 0)
 			(effects
 				(font
@@ -30790,7 +30817,7 @@
 				(hide yes)
 			)
 		)
-		(property "Rating" "10V"
+		(property "Rating" "25V"
 			(at 377.19 185.42 0)
 			(effects
 				(font
@@ -30799,7 +30826,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "LMK212BBJ226MG-T"
+		(property "PART-NUMBER" "C45783"
 			(at 377.19 185.42 0)
 			(effects
 				(font
@@ -30808,7 +30835,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "22u 10V 20%"
+		(property "Comment" "C45783 25V 22uF 20% 0805 Capacitor"
 			(at 377.19 185.42 0)
 			(effects
 				(font
@@ -30902,7 +30929,7 @@
 				)
 			)
 		)
-		(property "PART-NUMBER" "08051C473K4Z2A"
+		(property "PART-NUMBER" "C5186810"
 			(at 87.63 196.85 0)
 			(effects
 				(font
@@ -30911,7 +30938,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "0.047u 100V 20%"
+		(property "Comment" "C5186810 100V 0.047uF 10% 0805 Capacitor"
 			(at 87.63 196.85 0)
 			(effects
 				(font
@@ -30990,7 +31017,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "CM105X5R106M25AT"
+		(property "PART-NUMBER" "C96446"
 			(at 359.41 57.15 0)
 			(effects
 				(font
@@ -31017,7 +31044,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "10u 25V 20%"
+		(property "Comment" "C96446 25V 10uF 20% 0603 Capacitor"
 			(at 359.41 57.15 0)
 			(effects
 				(font
@@ -31068,7 +31095,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 228.092 59.69 90)
 			(effects
 				(font
@@ -31095,7 +31122,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "CR0603-JW-200ELF"
+		(property "PART-NUMBER" "C22950"
 			(at 229.87 59.69 0)
 			(effects
 				(font
@@ -31113,7 +31140,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "20 1%"
+		(property "Comment" "C22950 100mW Thick Film Resistors 75V 20Ω 1% 0603 Resistor"
 			(at 229.87 59.69 0)
 			(effects
 				(font
@@ -31231,7 +31258,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 290.322 115.57 90)
 			(effects
 				(font
@@ -31267,7 +31294,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "WSL0805R0250FEA18"
+		(property "PART-NUMBER" "C2767472"
 			(at 292.1 115.57 0)
 			(effects
 				(font
@@ -31276,7 +31303,16 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "25m 1/4W 5%"
+		(property "Comment" "C2767472 250mW Thick Film Resistors 25mΩ  5% 0805 Resistor"
+			(at 292.1 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Packaging" "0805"
 			(at 292.1 115.57 0)
 			(effects
 				(font
@@ -31357,7 +31393,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "PSMN075-100MSEX"
+		(property "PART-NUMBER" "C478016"
 			(at 133.35 237.49 0)
 			(effects
 				(font
@@ -31366,7 +31402,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "PSMN075-100MSEX"
+		(property "Comment" "C478016 PSMN075-100MSEX"
 			(at 133.35 237.49 0)
 			(effects
 				(font
@@ -31469,7 +31505,7 @@
 				)
 			)
 		)
-		(property "PART-NUMBER" "KAM21BR72A103KM "
+		(property "PART-NUMBER" "C7503490"
 			(at 157.48 99.06 0)
 			(effects
 				(font
@@ -31478,7 +31514,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "0.01u 100V 20%"
+		(property "Comment" "C7503490 100V 0.01uF 10% 0805 Capacitor"
 			(at 157.48 99.06 0)
 			(effects
 				(font
@@ -31559,7 +31595,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "PSMN075-100MSEX"
+		(property "PART-NUMBER" "C478016"
 			(at 97.79 262.89 0)
 			(effects
 				(font
@@ -31568,7 +31604,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "PSMN075-100MSEX"
+		(property "Comment" "C478016 PSMN075-100MSEX"
 			(at 97.79 262.89 0)
 			(effects
 				(font
@@ -31748,7 +31784,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "BAT54W"
+		(property "PART-NUMBER" "C5186013"
 			(at 270.51 101.6 0)
 			(effects
 				(font
@@ -31766,7 +31802,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "BAT54W"
+		(property "Comment" "C5186013 BAT54W"
 			(at 270.51 101.6 0)
 			(effects
 				(font
@@ -31848,7 +31884,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "PTVS58VP1UTP"
+		(property "PART-NUMBER" ""
 			(at 152.4 137.16 90)
 			(effects
 				(font
@@ -31917,7 +31953,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 223.012 151.13 90)
 			(effects
 				(font
@@ -31944,7 +31980,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "CR0603-FX-7501ELF"
+		(property "PART-NUMBER" "C23234"
 			(at 224.79 151.13 0)
 			(effects
 				(font
@@ -31962,7 +31998,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "7.5k 1%"
+		(property "Comment" "C23234 100mW Thick Film Resistors 75V 7.5kΩ 1% 0603 Resistor"
 			(at 224.79 151.13 0)
 			(effects
 				(font
@@ -32144,7 +32180,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "AEK0608100M100R "
+		(property "PART-NUMBER" "C72482"
 			(at 193.04 49.53 0)
 			(effects
 				(font
@@ -32153,7 +32189,7 @@
 				(hide yes)
 			)
 		)
-		(property "Packaging" "Aluminum Electrolytic Capacitors - SMD "
+		(property "Packaging" ""
 			(at 193.04 49.53 0)
 			(effects
 				(font
@@ -32171,7 +32207,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "10u 100V 20%"
+		(property "Comment" "C72482 100V 10uF 10% Aluminum Electrolytic Capacitors - SMD"
 			(at 193.04 49.53 0)
 			(effects
 				(font
@@ -32358,7 +32394,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "CIGT201610EH2R2MNE"
+		(property "PART-NUMBER" ""
 			(at 368.3 181.61 90)
 			(effects
 				(font
@@ -32509,7 +32545,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "GRM15XR71E222KA86D"
+		(property "PART-NUMBER" "C915853"
 			(at 330.2 125.73 0)
 			(effects
 				(font
@@ -32526,7 +32562,7 @@
 				)
 			)
 		)
-		(property "Rating" "25V"
+		(property "Rating" "50V"
 			(at 337.312 120.65 90)
 			(effects
 				(font
@@ -32534,7 +32570,7 @@
 				)
 			)
 		)
-		(property "Comment" "2200p 25V 20%"
+		(property "Comment" "C915853 50V 2200pF 10% 0402 Capacitor"
 			(at 330.2 125.73 0)
 			(effects
 				(font
@@ -32876,7 +32912,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "06033A471KAT2A"
+		(property "PART-NUMBER" "C1620"
 			(at 325.12 74.93 0)
 			(effects
 				(font
@@ -32893,7 +32929,7 @@
 				)
 			)
 		)
-		(property "Rating" "25V"
+		(property "Rating" "50V"
 			(at 320.294 75.946 0)
 			(effects
 				(font
@@ -32901,7 +32937,7 @@
 				)
 			)
 		)
-		(property "Comment" "470p 25V 20%"
+		(property "Comment" "C1620 50V 470pF 10% 0603 Capacitor"
 			(at 325.12 74.93 0)
 			(effects
 				(font
@@ -33193,7 +33229,7 @@
 				)
 			)
 		)
-		(property "PART-NUMBER" "GRM155R61A106ME11J"
+		(property "PART-NUMBER" "C77000"
 			(at 368.3 236.22 0)
 			(effects
 				(font
@@ -33202,7 +33238,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "10u 10V 20%"
+		(property "Comment" "C77000 10V 10uF 20% 0402 Capacitor"
 			(at 368.3 236.22 0)
 			(effects
 				(font
