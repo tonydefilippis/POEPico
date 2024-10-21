@@ -496,14 +496,7 @@
       "version": 3
     },
     "net_colors": null,
-    "netclass_assignments": {
-      "/Connectors/ETH_RXN": "DIFFPAIR",
-      "/Connectors/ETH_RXP": "DIFFPAIR",
-      "/Connectors/ETH_TXN": "DIFFPAIR",
-      "/Connectors/ETH_TXP": "DIFFPAIR",
-      "/Connectors/USB_DN": "DIFFPAIR",
-      "/Connectors/USB_DP": "DIFFPAIR"
-    },
+    "netclass_assignments": null,
     "netclass_patterns": []
   },
   "pcbnew": {
@@ -546,7 +539,7 @@
           "group_by": false,
           "label": "PART-NUMBER",
           "name": "PART-NUMBER",
-          "show": true
+          "show": false
         },
         {
           "group_by": true,

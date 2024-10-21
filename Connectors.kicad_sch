@@ -27000,7 +27000,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" ""
+		(property "PART-NUMBER" "C24363903 "
 			(at 124.46 137.16 0)
 			(effects
 				(font
@@ -27010,7 +27010,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "7499211123A"
+		(property "Comment" "C24363903 7499211123A"
 			(at 124.46 137.16 0)
 			(effects
 				(font
@@ -27135,7 +27135,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "10103594-0001LF"
+		(property "Comment" "C428495 10103594-0001LF"
 			(at 115.57 40.64 0)
 			(effects
 				(font

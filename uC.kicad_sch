@@ -40658,7 +40658,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "W25Q128JVS"
+		(property "PART-NUMBER" "C97521"
 			(at 382.27 226.06 0)
 			(effects
 				(font
@@ -40667,7 +40667,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "W25Q128JVS"
+		(property "Comment" "C97521 W25Q128JVS"
 			(at 382.27 226.06 0)
 			(effects
 				(font
@@ -40948,7 +40948,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "ABM8-272-T3"
+		(property "PART-NUMBER" "C20625731"
 			(at 288.29 220.98 90)
 			(effects
 				(font
@@ -40957,7 +40957,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "ABM8-272-T3"
+		(property "Comment" "C20625731 ABM8-272-T3"
 			(at 288.29 220.98 0)
 			(effects
 				(font
@@ -41126,7 +41126,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "93AA46AT-I/OT"
+		(property "PART-NUMBER" "C145736"
 			(at 198.12 262.89 0)
 			(effects
 				(font
@@ -41135,7 +41135,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "93AA46AT-I/OT"
+		(property "Comment" "C145736 93AA46AT-I/OT"
 			(at 198.12 262.89 0)
 			(effects
 				(font
@@ -41851,7 +41851,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "ABM8G-25.000MHZ-4Y-T3"
+		(property "PART-NUMBER" "C596914"
 			(at 195.58 224.79 90)
 			(effects
 				(font
@@ -41860,7 +41860,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "ABM8G-25.000MHZ-4Y-T3"
+		(property "Comment" "C596914 ABM8G-25.000MHZ-4Y-T3"
 			(at 195.58 224.79 0)
 			(effects
 				(font
@@ -43185,7 +43185,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "LAN9500A-ABZJ-TR"
+		(property "PART-NUMBER" "C2651877"
 			(at 58.42 130.81 0)
 			(effects
 				(font
@@ -43194,7 +43194,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "LAN9500A-ABZJ-TR"
+		(property "Comment" "C2651877 LAN9500A-ABZJ-TR"
 			(at 58.42 130.81 0)
 			(effects
 				(font

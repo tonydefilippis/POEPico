@@ -1671,150 +1671,6 @@
 				)
 			)
 		)
-		(symbol "Diode:PTVS26VZ1USK"
-			(pin_numbers hide)
-			(pin_names hide)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "D"
-				(at 0 2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "PTVS26VZ1USK"
-				(at 0 -2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "Diode_SMD:Nexperia_DSN1608-2_1.6x0.8mm"
-				(at 0 -4.445 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/PTVS26VZ1USK.pdf"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "26V, 1850W TVS unidirectional diode, DSN1608-2"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "TVS diode"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "*DSN1608?2*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "PTVS26VZ1USK_0_1"
-				(polyline
-					(pts
-						(xy 1.27 0) (xy -1.27 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 -1.27) (xy -1.27 1.27) (xy -0.762 1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 -1.27) (xy 1.27 1.27) (xy -1.27 0) (xy 1.27 -1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "PTVS26VZ1USK_1_1"
-				(pin passive line
-					(at -3.81 0 0)
-					(length 2.54)
-					(name "K"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 3.81 0 180)
-					(length 2.54)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "Diode:SMAJ24A"
 			(pin_numbers hide)
 			(pin_names
@@ -1932,6 +1788,150 @@
 					(at 3.81 0 180)
 					(length 2.54)
 					(name "A2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "Diode:Z3SMCxxx"
+			(pin_numbers hide)
+			(pin_names hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Z3SMCxxx"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "Diode_SMD:D_SMC"
+				(at 0 -4.445 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://diotec.com/tl_files/diotec/files/pdf/datasheets/z3smc1.pdf"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "3000mW Zener Diode, SMC(DO-214AB)"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "zener diode"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "D?SMC*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Z3SMCxxx_0_1"
+				(polyline
+					(pts
+						(xy 1.27 0) (xy -1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -1.27) (xy -1.27 1.27) (xy -0.762 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -1.27) (xy 1.27 1.27) (xy -1.27 0) (xy 1.27 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "Z3SMCxxx_1_1"
+				(pin passive line
+					(at -3.81 0 0)
+					(length 2.54)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 3.81 0 180)
+					(length 2.54)
+					(name "A"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -23294,7 +23294,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "BAT46W-E3-18"
+		(property "Value" "BAT46W"
 			(at 361.95 131.7624 90)
 			(effects
 				(font
@@ -23312,7 +23312,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "BAT46W-E3-18"
+		(property "Datasheet" "BAT46W"
 			(at 359.41 130.81 0)
 			(effects
 				(font
@@ -23339,7 +23339,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" ""
+		(property "PART-NUMBER" "C5805641"
 			(at 359.41 130.81 90)
 			(effects
 				(font
@@ -23348,7 +23348,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "BAT46W-E3-18"
+		(property "Comment" "C5805641 BAT46W"
 			(at 359.41 130.81 0)
 			(effects
 				(font
@@ -25192,7 +25192,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "AP62250Z6"
+		(property "PART-NUMBER" "C5290220"
 			(at 336.55 184.15 0)
 			(effects
 				(font
@@ -25210,7 +25210,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "AP62250Z6"
+		(property "Comment" "C5290220 AP62250Z6"
 			(at 336.55 184.15 0)
 			(effects
 				(font
@@ -25565,7 +25565,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "BAS21_R1_00001"
+		(property "Comment" "C391392 BAS21_R1_00001"
 			(at 222.25 81.28 0)
 			(effects
 				(font
@@ -26246,7 +26246,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" ""
+		(property "PART-NUMBER" "C24363903"
 			(at 344.17 78.74 0)
 			(effects
 				(font
@@ -26255,7 +26255,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "TPN1600ANH,L1Q"
+		(property "Comment" "C24363903 TPN1600ANH,L1Q"
 			(at 344.17 78.74 0)
 			(effects
 				(font
@@ -26510,7 +26510,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Custom:DO1608C"
+		(property "Footprint" "FCH5030-100M"
 			(at 203.2 45.72 0)
 			(effects
 				(font
@@ -26519,7 +26519,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "DO1608C-104"
+		(property "Datasheet" "FCH5030-100M"
 			(at 203.2 45.72 0)
 			(effects
 				(font
@@ -26537,7 +26537,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" ""
+		(property "PART-NUMBER" "C20415529"
 			(at 203.2 45.72 0)
 			(effects
 				(font
@@ -26546,7 +26546,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "DO1608C-103MLC Power Inductors - SMD 10uH Shld 20% 1.5A 160mOhms "
+		(property "Comment" "C20415529 FCH5030-100M"
 			(at 203.2 45.72 0)
 			(effects
 				(font
@@ -27131,7 +27131,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" ""
+		(property "PART-NUMBER" "C5249004"
 			(at 227.33 68.58 0)
 			(effects
 				(font
@@ -27140,7 +27140,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "FMMT723QTA"
+		(property "Comment" "C5249004 FMMT723QTA"
 			(at 227.33 68.58 0)
 			(effects
 				(font
@@ -28125,7 +28125,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "LT4321HUF#PBF"
+		(property "PART-NUMBER" "C672474"
 			(at 46.99 196.85 0)
 			(effects
 				(font
@@ -28134,7 +28134,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "LT4321HUF#PBF"
+		(property "Comment" "C672474 LT4321HUF#PBF"
 			(at 46.99 196.85 0)
 			(effects
 				(font
@@ -28521,7 +28521,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" ""
+		(property "PART-NUMBER" "C3279283"
 			(at 289.56 97.79 0)
 			(effects
 				(font
@@ -28530,7 +28530,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "BSZ900N20NS3GATMA1"
+		(property "Comment" "C3279283 BSZ900N20NS3GATMA1"
 			(at 289.56 97.79 0)
 			(effects
 				(font
@@ -28876,7 +28876,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "8f6fdf10-30f9-47f2-9fce-ce35a9f733f7")
 		(property "Reference" "L4"
 			(at 365.76 48.26 90)
@@ -28894,7 +28893,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DO1813P-181HC"
+		(property "Footprint" "Inductor_SMD:L_0603_1608Metric"
 			(at 365.76 53.34 0)
 			(effects
 				(font
@@ -28921,7 +28920,7 @@
 				(hide yes)
 			)
 		)
-		(property "Packaging" ""
+		(property "Packaging" "0603"
 			(at 365.76 53.34 90)
 			(effects
 				(font
@@ -28930,7 +28929,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" ""
+		(property "PART-NUMBER" "C251952"
 			(at 365.76 53.34 90)
 			(effects
 				(font
@@ -28939,13 +28938,21 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "DO1813P-181HC General Purpose Inductor, 0.18uH, 20%, 1 Element, SMD, 3524"
+		(property "Comment" "C251952 LCF0603-R18J-T 1.1A 180nH ±5% SMD Power Inductors ROHS"
 			(at 365.76 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Rating" "1.1A "
+			(at 371.348 50.8 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -29116,7 +29123,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "LT4295IUFD#PBF"
+		(property "PART-NUMBER" "C672449"
 			(at 212.09 119.38 0)
 			(effects
 				(font
@@ -29125,7 +29132,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "LT4295IUFD#PBF"
+		(property "Comment" "C672449 LT4295IUFD#PBF"
 			(at 212.09 119.38 0)
 			(effects
 				(font
@@ -29950,7 +29957,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Custom:DO1608C"
+		(property "Footprint" "Custom:AABG05A20M101"
 			(at 233.68 77.47 0)
 			(effects
 				(font
@@ -29959,7 +29966,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "DO1608C-104"
+		(property "Datasheet" "AABG05A20M101"
 			(at 233.68 77.47 0)
 			(effects
 				(font
@@ -29977,7 +29984,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" ""
+		(property "PART-NUMBER" "C5119206"
 			(at 233.68 77.47 90)
 			(effects
 				(font
@@ -29986,7 +29993,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "DO1608C-104"
+		(property "Comment" "C5119206 AABG05A20M101"
 			(at 233.68 77.47 0)
 			(effects
 				(font
@@ -31690,7 +31697,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "PE-68386NL"
+		(property "PART-NUMBER" "C581397"
 			(at 311.15 130.81 0)
 			(effects
 				(font
@@ -31699,7 +31706,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "PE-68386NL"
+		(property "Comment" "C581397 PE-68386NL"
 			(at 311.15 130.81 0)
 			(effects
 				(font
@@ -31830,7 +31837,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:PTVS26VZ1USK")
+		(lib_id "Diode:Z3SMCxxx")
 		(at 152.4 137.16 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -31848,7 +31855,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "PTVS58VP1UTP"
+		(property "Value" "SMF58A"
 			(at 154.94 138.4299 90)
 			(effects
 				(font
@@ -31857,7 +31864,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-128"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 147.955 137.16 0)
 			(effects
 				(font
@@ -31866,7 +31873,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "PTVS58VP1UTP"
+		(property "Datasheet" ""
 			(at 152.4 137.16 0)
 			(effects
 				(font
@@ -31884,7 +31891,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" ""
+		(property "PART-NUMBER" "C435457"
 			(at 152.4 137.16 90)
 			(effects
 				(font
@@ -31893,7 +31900,7 @@
 				(hide yes)
 			)
 		)
-		(property "Packaging" "SOD-128"
+		(property "Packaging" "SOD-123"
 			(at 152.4 137.16 90)
 			(effects
 				(font
@@ -31902,7 +31909,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "PTVS58VP1UTP"
+		(property "Comment" "C435457 SMF58A"
 			(at 152.4 137.16 0)
 			(effects
 				(font
@@ -32086,7 +32093,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "NCP1117ST33T3G"
+		(property "PART-NUMBER" "C26537"
 			(at 347.98 231.14 0)
 			(effects
 				(font
@@ -32095,7 +32102,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "NCP1117ST33T3G"
+		(property "Comment" "C26537 NCP1117ST33T3G"
 			(at 347.98 231.14 0)
 			(effects
 				(font
@@ -32284,7 +32291,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" "750316115"
+		(property "PART-NUMBER" "C24363903"
 			(at 311.15 58.42 0)
 			(effects
 				(font
@@ -32293,7 +32300,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "750316115"
+		(property "Comment" "C24363903 750316115"
 			(at 311.15 58.42 0)
 			(effects
 				(font
@@ -32376,7 +32383,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "CIGT201610EH2R2MNE"
+		(property "Datasheet" "DFE201610E-2R2M=P2"
 			(at 368.3 181.61 0)
 			(effects
 				(font
@@ -32394,7 +32401,7 @@
 				(hide yes)
 			)
 		)
-		(property "PART-NUMBER" ""
+		(property "PART-NUMBER" "C337891 "
 			(at 368.3 181.61 90)
 			(effects
 				(font
@@ -32403,7 +32410,7 @@
 				(hide yes)
 			)
 		)
-		(property "Comment" "CIGT201610EH2R2MNE"
+		(property "Comment" "C337891 1.7A 2.2uH ±20% 140mΩ 0806 Inductors (SMD)"
 			(at 368.3 181.61 0)
 			(effects
 				(font
