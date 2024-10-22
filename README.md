@@ -1,8 +1,19 @@
-# POEPico
-POE Pico is a board setup for a RP2040 "Pi Pico" configured to support active POE with Ethernet <-> USB conversion. 
+# POE Pico
+"POE Pico" is a PCBA design for a RP2040 "Pi Pico" configured to support 40W active POE with Ethernet <-> USB conversion. 
 # Diagram
+Pre-print, the following 3D Views are available, but are not fully representative of the final product:
+<br />Top<br />
+<a href="https://ibb.co/r2JVWjt"><img src="https://i.ibb.co/yFJr39R/3-Dview-Top.png" alt="3-Dview-Top" border="0"></a>
+<br />Bottom<br />
+<a href="https://ibb.co/tpYNBwX"><img src="https://i.ibb.co/4R4DWwd/3-DView-Bot.png" alt="3-DView-Bot" border="0"></a>
+
 A PDF export of the schematic sheets for reference can be found [here](documentation/POEPico.pdf).
 # Feature List
+## Components
+The USB to Ethernet conversion IC is a [LAN9500A](https://www.microchip.com/en-us/product/lan9500a). The board features a 40W active POE power/data supply input with a fully-isolated 12 VDC @ 2A Flyback courtesy of an [LT4295](https://www.analog.com/media/en/technical-documentation/data-sheets/LT4295.pdf). Downstream of the flyback is a 12V to 5V buck converter and 3.3V power rails. Ethernet magnetics and LEDs are fully integrated by the RJ45 connector. 
+
+Alternatively, the board supports bringup of the RP2040 and power through the Micro-B connector. Powering the PCBA through the 5V Micro-B connector will also power the 3.3V rail. 
+## Pins
 Header pins expose standard RP2040 GPIO, including an isolated 12V, 5V, and 3.3V power rail.
 | Purpose | Pin | Pin | Purpose | 
 | -------- | ------- | ------- | ------- |
@@ -47,5 +58,5 @@ Header pins expose standard RP2040 GPIO, including an isolated 12V, 5V, and 3.3V
 | +12V0 | J22.35 | J22.26 | GND |
 
 # Assembly
-To be assembled as a 4-layer PCB, with associated BOM. Components to be placed on top and bottom of board. BOM has been edited to support JLCPCB quoting.
+To be assembled as a 4-layer PCB, with associated BOM. Components to be placed on top and bottom of board. BOM has been edited to support JLCPCB quoting. Approximate cost estimate as of 21/10/2024 is $60/pc, including fabrication, components, assembly, and shipping.
 
