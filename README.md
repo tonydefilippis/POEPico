@@ -1,7 +1,7 @@
 # POEPico
 POE Pico is a board setup for a RP2040 "Pi Pico" configured to support active POE with Ethernet <-> USB conversion. 
 # Diagram
-TODO
+A PDF export of the schematic sheets for reference can be found [here](documentation/POEPico.pdf).
 # Feature List
 Header pins expose standard RP2040 GPIO, including an isolated 12V, 5V, and 3.3V power rail.
 | Purpose | Pin | Pin | Purpose | 
